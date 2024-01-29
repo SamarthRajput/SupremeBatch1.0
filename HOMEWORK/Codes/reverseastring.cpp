@@ -2,6 +2,9 @@
 #include<string>
 using namespace std;
 
+//TIME COMPLEXITY - O(N)
+//SPACE COMPLEXITY - O(N)
+
 void reverseastring(string& str , int start , int end){
     //base case
     if(start >= end){
