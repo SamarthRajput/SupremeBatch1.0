@@ -6,6 +6,3 @@
 - 🌱 Codes for all lectures can be found in this repository.
 
 - 📫 How to reach me **ssamarth224@gmail.com**
-
-- 🥳 Certificate
-<img aling="center" alt="Coding" width="1000" src="/DSA Certificate.png" alt="">
