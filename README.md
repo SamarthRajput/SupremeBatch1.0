@@ -9,4 +9,4 @@
 
 - 🥳 Certificate
 
-<img aling="center" alt="Coding" width="1000" src="https://learn.thecodehelp.in/share-certificate?serialno=RDDL7BVZ" alt="">
+<img aling="center" alt="Coding" width="1000" src="https://learn.codehelp.in/share-certificate?serialno=RDDL7BVZ" alt="">
