@@ -50,7 +50,7 @@ public:
 					visited[nbr] = true;
 					parent[nbr]=frontNode;
 				}
-				if(visited[nbr] && nbr != parent[frontNode]) {
+				else if(visited[nbr] && nbr != parent[frontNode]) {
 						//cycle present
 						return true;
 				}
